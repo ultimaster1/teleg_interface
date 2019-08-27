@@ -4,7 +4,7 @@ from telegram.ext import Updater
 from telegram.ext import CommandHandler
 from telegram.ext import Updater, CommandHandler
 import pandas as pd
-bot = Bot(token='821621757:AAEvO3dWJ5XWxMM2y2OorZscnWPYnSOlkZY')
+bot = Bot(token='Some_tok')
 def put(update,contenxt):
     print('sdsdsdsd')
     par_string = 'Params:'
